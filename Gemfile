@@ -42,3 +42,8 @@ gem 'spring',        group: :development
 gem 'ember-rails'
 gem 'ember-source', '~> 1.8.1'
 gem 'emblem-rails'
+
+gem 'ffaker'
+gem 'puma'
+
+gem "active_model_serializers"
